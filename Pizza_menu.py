@@ -4,7 +4,7 @@
 #   CREATED ON : Dec 9, 2022
 #   PURPOSE: This program creates a menu system that allows users to order pizzas of varying quantities, sizes and toppings 
 #   SKILLS USED: user inputs, for loops, if statements
-#
+
 #Prompt: Create a menu system that allows users to order pizzas of varying quantities, sizes and toppings 
 num_pizzas = int(input("How many pizzas would you like?: "))
 
